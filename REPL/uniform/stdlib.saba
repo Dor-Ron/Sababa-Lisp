@@ -1,0 +1,22 @@
+;**********************************************
+;**********SABABA STANDARD LIBRARY*************
+;**********************************************
+
+;written by Dor Rondel
+
+;PI - mathematic value
+  
+  def{pi} 3.14159265359
+
+;e - mathematic value
+
+  def{e} 2.71828
+  
+;absolute value
+
+  def{abs} (\ {x} {if (< x 0){* x (- 1 2)}{x}})
+  
+;identity function
+  def{identity} (\ {val} {val})
+
+;Note: floats are non supported in the current Sababa version
