@@ -1,6 +1,6 @@
 /*
 Interactive Prompt REPL (read, evaluate, print, loop) styles.
-Intended for Sababa Programming language, created by Dor Rondél i Gallego.
+Intended for Sababa Programming language, created by Dor Rondel
 Special thanks to Daniel Holden for the Micro Parser Combinators and guidance.
 All rights reserved Copyright 2014-2015.
 Licensed under the Apache License v2.0
